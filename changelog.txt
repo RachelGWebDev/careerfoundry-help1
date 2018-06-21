@@ -1,0 +1,14 @@
+https://github.com/RachelGWebDev/careerfoundry-help1.git
+
+What was changed?
+Fix `<p>` elements from `<p1>, <p2>` to correct syntax of `<p>` with a class
+Closed `container` of about section, to allow for carousel beneath it
+added new `container-fluid` class to carousel, to allow for easier editing
+changed generic classes/IDs to more meaningful readable classes/IDs
+put in a placeholder- to make sure it works- It does!
+
+Note: You will see a lot of things crossed out. They were right, but to ensure they worked, I rewrote it one by one to find the problem with the caroiusel. What looks like maybe happened, is that the container wasn't closed initially, and the carousel was inside the other things in the same row. It looked like it was overlaying. Changing it around a bit helped, and I was able to use your initial carousel code!
+The only thing is, be sure to change the placeholder images- I had to change them to make sure they worked.
+And be sure to check all linked files are still linked!
+
+Thank for letting me help, and if you have any other help needs let me know. Good luck!
